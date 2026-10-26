@@ -1,6 +1,6 @@
 # Cybersecurity Portfolio
 
-**[🌐 View the live portfolio](https://jayeshchabukswar.github.io/jayeshchabukswar6.github.io/)**
+**[🌐 View the live portfolio](https://jayeshchabukswar.github.io/)**
 
 A clean, responsive portfolio documenting my cybersecurity learning journey, current skills, and projects as I work toward an entry-level SOC Analyst (L1) role.
 
@@ -13,7 +13,7 @@ A clean, responsive portfolio documenting my cybersecurity learning journey, cur
 
 ## Links
 
-- **Live portfolio:** https://jayeshchabukswar.github.io/jayeshchabukswar6.github.io/
+- **Live portfolio:** https://jayeshchabukswar.github.io/
 - **GitHub profile:** https://github.com/JayeshChabukswar
 - **Learning journal:** https://github.com/JayeshChabukswar/cybersecurity.path
 - **TryHackMe:** https://tryhackme.com/p/xbec
